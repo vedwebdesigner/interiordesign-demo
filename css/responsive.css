@@ -1,0 +1,65 @@
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1365px){
+
+
+  
+}
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+  
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .banner-text {
+        margin-top: 114px;
+    }  
+    .btn3{
+        margin-left: 0px;
+    }
+    .home-registration-form{
+        width: 100%;
+    }
+    .second_23{
+        text-align: center;
+    }
+    .process-section ul{
+        display: block;
+    }
+    .proz-mint{
+        padding: 9px 4px;
+    }
+    .p-num {
+        position: absolute;
+        bottom: -11px;
+    }
+    .slick-next {
+        right: -9px;
+    }
+    .slick-prev {
+        left: -10px;
+        z-index: 9;
+    }
+    .site-footer .home-registration-form {
+        margin-top: 28px;
+    }
+    .nav-item p{
+        word-break: break-all;
+    }
+
+}
+
+@media only screen and (max-width: 360px) {
+
+}
